@@ -1,2 +1,2 @@
 hello world!
-LM10
+LM10 M
